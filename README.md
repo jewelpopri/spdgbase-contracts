@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./logo.png" width="220"/>
+</p>
 # SPDGBASE – Base Network Expansion Layer
 
 SPDGBASE is the structured expansion layer of the SPDG ecosystem, deployed on Base Network.
